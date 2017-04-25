@@ -12,13 +12,9 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("hello!");
             int a=1;
-           
-
-
-
-
+            int b=2;
             int c;
-            c = a ;
+            c = a + b;
 
         }
     }
