@@ -11,6 +11,9 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             Console.WriteLine("hello!");
+            int a;
+            int b;
+            int c;
         }
     }
 }
